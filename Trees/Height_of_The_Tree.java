@@ -1,6 +1,6 @@
 //problem: given the root of the binary Tree.the task is the find the height of the tree.
 
-// we can use depth for search traversal postorder --> left tree,right tree after root.
+// we can use depth for search traversal postorder --> left tree,right tree, root.
 
 // here i use postorder traversal.
 
