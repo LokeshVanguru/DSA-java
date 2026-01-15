@@ -23,7 +23,7 @@ boolean linearSearch(int arr[],int target)
 
 //RecursiveLinearSearch
 //-------------take int curindex=0;
-boolean recursiveLinearSearch(int arr[],int targer,int curindex)
+boolean recursiveLinearSearch(int arr[],int target,int curindex)
 {
     if(curindex==arr.length)
         {
