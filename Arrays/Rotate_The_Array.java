@@ -5,6 +5,9 @@
 //   2.if k is greater than k we can rotate k%arr.length times
 //   3.k%n is equal to 0 return array
 
+example:
+arr[]=[1,2,3,4,5] k=2
+output:[4,5,1,2,3]
 
 public void rotate(int[] arr, int k) {
         int n=arr.length;
