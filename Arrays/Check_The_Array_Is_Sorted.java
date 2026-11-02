@@ -2,7 +2,7 @@
 // return true if the array is originally sorted in ascending order 
 // or rotated sorted array by number of positions.
 // other wise return false.
-//
+
 
 
 
